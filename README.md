@@ -21,7 +21,7 @@
 This project uses the C programming language to recreate some sorting algorithms. Notably, 0. Bubble sort, 1. Insertion sort, 2. Selection sort, 3. Quick sort, 4. Shell sort - Knuth Sequence, 5. Cocktail shaker sort, 6. Counting sort, 7. Merge sort. 
 
 
-##Resources
+## Resources
 
 
 - [Data structures and algorithms](https://www.youtube.com/watch?v=AT14lCXuMKI&list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU&ab_channel=Jenny%27sLecturesCSIT)
